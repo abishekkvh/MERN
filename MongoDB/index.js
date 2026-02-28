@@ -152,7 +152,7 @@ async function run() {
   console.log("\nTop 3 Students");
   console.table(top3);
 
-    console.log("\n==============================");
+  console.log("\n==============================");
   console.log("DELETE OPERATIONS");
   console.log("==============================");
 
