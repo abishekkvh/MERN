@@ -9,22 +9,6 @@ This repository documents my structured learning path towards becoming a Full-St
 
 ---
 
-# 📂 Folder Structure
-MERN/
-│
-├── NodeJS/
-│ ├── Lesson 1 - Global Object & Timers
-│ ├── Lesson 2 - Modules & Require
-│ ├── Lesson 3 - File System (fs)
-│
-└── (Upcoming)
-├── Express/
-├── MongoDB/
-├── React/
-
-
----
-
 # 🟢 NodeJS Concepts Covered
 
 ## 🔹 Lesson 1 - Global & Core Node Concepts
