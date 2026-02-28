@@ -2,14 +2,10 @@
 
 This repository documents my structured learning path towards becoming a Full-Stack MERN Developer.
 
----
-
 ## 📅 Started On
 28-02-2026
 
----
-
-# 🟢 NodeJS Concepts Covered
+# NodeJS Concepts Covered
 
 ## 🔹 Lesson 1 - Global & Core Node Concepts
 - Global Object
@@ -37,8 +33,6 @@ This repository documents my structured learning path towards becoming a Full-St
 - Error handling using try-catch
 - Sync vs Async understanding
 
----
-
 # 🧠 Key Learnings
 
 - Node.js runs on V8 engine
@@ -48,8 +42,6 @@ This repository documents my structured learning path towards becoming a Full-St
 - Async methods are preferred in production
 - Proper error handling prevents application crashes
 
----
-
 # 🎯 Next Goals
 
 - Async File System methods
@@ -58,8 +50,6 @@ This repository documents my structured learning path towards becoming a Full-St
 - Express.js
 - MongoDB integration
 - Full MERN project
-
----
 
 ## 👨‍💻 Author
 Abishek  - Full Stack Developer
