@@ -9,8 +9,6 @@ This repository is dedicated to practicing and strengthening my understanding of
 
 The main goal of this repository is to build full-stack applications while improving my understanding of frontend and backend integration, database operations, and REST API development.
 
----
-
 # 🧠 Tech Stack Used
 
 ## Frontend
@@ -22,8 +20,6 @@ The main goal of this repository is to build full-stack applications while impro
 
 ## Database
 - MongoDB
-
----
 
 # 📌 What This Repository Focuses On
 
