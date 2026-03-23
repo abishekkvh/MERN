@@ -79,6 +79,7 @@ const server = http.createServer((req, res) => {
         res.statusCode = 301;
         res.setHeader('Location', '/');
         res.end();
+        xq
     }
 
     /* =========================================
